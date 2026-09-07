@@ -1,0 +1,16 @@
+---
+title: "Smokes"
+author: "Shrish Tariq"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| message: false
+
+library(tidyverse)
+library(primer.tutorials)
+```
+
+
